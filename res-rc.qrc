@@ -1,0 +1,14 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>icons/backspace.svg</file>
+    <file>icons/del_all.svg</file>
+    <file>icons/del_black.svg</file>
+    <file>icons/add_date.svg</file>
+    <file>icons/add.svg</file>
+    <file>icons/calc.svg</file>
+    <file>icons/calc_black.svg</file>
+    <file>icons/calc_white.svg</file>
+    <file>icons/delete_24dp_FILL0_wght400_GRAD0_opsz24.svg</file>
+    <file>icons/edit.svg</file>
+  </qresource>
+</RCC>
