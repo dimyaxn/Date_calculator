@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 
 ################################################################################
-## Form generated from reading UI file 'design2.ui'
+## Form generated from reading UI file 'design.ui'
 ##
 ## Created by: Qt User Interface Compiler version 6.7.2
 ##
@@ -384,7 +384,7 @@ class Ui_MainWindow(object):
 
         self.max_days_spinBox = QSpinBox(self.centralwidget)
         self.max_days_spinBox.setObjectName(u"max_days_spinBox")
-        self.max_days_spinBox.setMaximumSize(QSize(100, 70))
+        self.max_days_spinBox.setMaximumSize(QSize(120, 70))
         self.max_days_spinBox.setStyleSheet(u"\n"
 "QSpinBox {\n"
 "background-color: rgba(149, 185, 240, 50);\n"
@@ -396,7 +396,7 @@ class Ui_MainWindow(object):
         self.max_days_spinBox.setFrame(False)
         self.max_days_spinBox.setButtonSymbols(QAbstractSpinBox.NoButtons)
         self.max_days_spinBox.setKeyboardTracking(True)
-        self.max_days_spinBox.setMaximum(999)
+        self.max_days_spinBox.setMaximum(9999)
         self.max_days_spinBox.setValue(59)
 
         self.horizontalLayout_max_days.addWidget(self.max_days_spinBox)
